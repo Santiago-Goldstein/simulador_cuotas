@@ -1,16 +1,22 @@
-# simulador_cuotas
+# Installment Simulator for Merchants
 
-A new Flutter project.
+**Freelance Project – 2024**  
+A mobile and desktop application designed to simulate installment plans based on credit card type and number of installments. The app provides merchants with useful tools to manage product pricing and interest configurations.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- 💳 **Installment Calculator**: Calculates final prices based on selected card and number of installments.
+- 🛠️ **Interest Coefficient Editor**: Merchants can configure and edit interest rates for different card plans.
+- 🛒 **Product Management**: Add, edit, and remove products from a customizable catalog.
+- 📱💻 **Cross-Platform**: Compatible with both mobile and desktop platforms thanks to Flutter.
 
-A few resources to get you started if this is your first Flutter project:
+## 🧰 Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter** – Cross-platform UI framework
+- **Dart** – Programming language used for app logic and interface
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📌 Project Goals
+
+- Simplify financial decision-making for merchants and customers.
+- Provide a flexible tool that adapts to real-world interest rates and payment systems.
+- Ensure a smooth and responsive user experience across devices.
